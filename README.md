@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi I'm Nari Park 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parknari02&layout=compact)](https://github.com/parknari02/github-readme-stats)
 <!--
 **parknari02/parknari02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
