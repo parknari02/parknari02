@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h2 align="">🛠️ STACKS</h2>
+<h2 align="">🛠️ SKILLS</h2>
 <p align="">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
