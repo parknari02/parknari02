@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h2 align="">🍀 STACKS</h2>
+<h2 align="">🛠️ STACKS</h2>
 
 <p align="">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
-<h2>🍀 COWORK TOOLS</h2>
+<h2>🌟 COWORK TOOLS</h2>
 
 <p>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
