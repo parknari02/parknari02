@@ -2,9 +2,12 @@
 
 <h2>🍀 ABOUT ME</h2>
 <p>
-  <img src="https://img.shields.io/badge/nari9461439@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <a href="https://colossal-salute-ef0.notion.site/Hi-I-m-Nari-Park-1863741049b880a28e7fd114c4158854?pvs=4">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/nari9461439@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.instagram.com/_day__.02?igsh=MTBhdDl3ZjJyamsyMQ==">
+    <img src="https://img.shields.io/badge/Instagram-FFB5C0.svg?style=for-the-badge&logo=instagram&logoColor=FF0069"/>
   </a>
 </p>
 
