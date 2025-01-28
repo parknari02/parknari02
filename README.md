@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&theme=buefy&height=300&section=header&text=HI,%20I%20AM%20NARI%20PARK!&fontSize=50&fontAlignY=30&desc=✨%20welcome%20to%20my%20github%20✨%20&descAlignY=50&fontColor=FFFF99)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&theme=buefy&height=300&section=header&text=HI,%20I%20AM%20NARI%20PARK!&fontSize=70&fontAlignY=30&desc=✨%20welcome%20to%20my%20github%20✨%20&descAlignY=50&fontColor=FFFF99)
 
 <h2>🍀 ABOUT ME</h2>
 <p>
