@@ -40,12 +40,12 @@
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/farms/parknari02"
-    width="500"
-    height="400"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=parknari02&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/parknari02"
+  width="600"
+  height="300"
+/>
 </a>
   
 <div>
