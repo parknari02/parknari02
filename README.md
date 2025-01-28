@@ -43,7 +43,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=parknari02&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/parknari02"
-  width="600"
+  width="500"
   height="300"
 />
 </a>
